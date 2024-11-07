@@ -1,0 +1,3 @@
+ativo = False
+
+print(ativo)
