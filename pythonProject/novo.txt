@@ -1,3 +1,2 @@
 escre eh facil.
-podemos.
-ultima
+podemos.\w
